@@ -9,7 +9,6 @@ I graduated in Law from the Valahia University and I worked in a Law office. I a
 • TestRail
 • Postman
 • SQL 
-• HTML 
 
 ## Certificates
 • [Qa Automation Tester](https://www.linkedin.com/posts/andreeapopa9793_qa-automation-testing-certification-activity-7071803579019214849-kGY-?utm_source=share&utm_medium=member_desktop)
