@@ -14,6 +14,10 @@ I graduated in Law from the Valahia University and I worked in a Law office. I a
 ## Certificates
 • [Qa Automation Tester](https://www.linkedin.com/posts/andreeapopa9793_qa-automation-testing-certification-activity-7071803579019214849-kGY-?utm_source=share&utm_medium=member_desktop)
 
+## Courses
+• IT Factory: Automation Testing and Manual Testing
+• HTML/ CSS basics
+
 - 🔭 I’m currently working on this page. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndreeaPopa9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andreeapopa9793/)  
