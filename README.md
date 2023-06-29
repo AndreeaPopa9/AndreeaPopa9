@@ -3,12 +3,16 @@ I graduated in Law from the Valahia University and I worked in a Law office. I a
 
 ## Skills and Experience
 • Python 
-• Selenium WebDriver
+• Web automation with Selenium WebDriver
+• Behaviour Driven Development
 • Jira 
 • TestRail
 • Postman
 • SQL 
 • HTML 
+
+##Certificates
+• QA AUTOMATION TESTER
 
 - 🔭 I’m currently working on this page. 
 
