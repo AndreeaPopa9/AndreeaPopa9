@@ -17,6 +17,9 @@ I graduated in Law from the Valahia University and I worked in a Law office. I a
 • IT Factory: Automation Testing and Manual Testing
 • HTML/ CSS basics
 
+## My Projects
+• [Testing site Georgia&Lulu](https://github.com/AndreeaPopa9/ExamProject_BDD)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndreeaPopa9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andreeapopa9793/)  
 
 
