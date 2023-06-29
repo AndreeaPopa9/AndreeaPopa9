@@ -5,6 +5,7 @@ I graduated in Law from the Valahia University and I worked in a Law office. I a
 • Python 
 • Selenium WebDriver
 • Jira 
+• TestRail
 • Postman
 • SQL 
 • HTML 
