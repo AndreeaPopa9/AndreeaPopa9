@@ -11,8 +11,8 @@ I graduated in Law from the Valahia University and I worked in a Law office. I a
 • SQL 
 • HTML 
 
-##Certificates
-• QA AUTOMATION TESTER
+## Certificates
+• Qa Automation Tester 
 
 - 🔭 I’m currently working on this page. 
 
