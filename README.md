@@ -7,7 +7,6 @@ I graduated in Law from the Valahia University and I worked in a Law office. I a
 • Behaviour Driven Development
 • Jira 
 • TestRail
-• Postman
 • SQL 
 
 ## Certificates
