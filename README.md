@@ -21,6 +21,13 @@ I graduated in Law from the Valahia University and I worked in a Law office. I a
 • [Testing site Saucedemo](https://github.com/AndreeaPopa9/SaucedemoTest)
 • [Testing Jules app](https://github.com/AndreeaPopa9/JulesTest)
 
+### Unittest Examples
+• [Unittest1](https://github.com/AndreeaPopa9/Unittest1)
+• [Unittest2](https://github.com/AndreeaPopa9/Unittest2)
+
+### Locators Examples
+• [Locators](https://github.com/AndreeaPopa9/Locators/tree/main/locators)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndreeaPopa9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andreeapopa9793/)  
 
 
