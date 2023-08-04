@@ -1,5 +1,5 @@
 # Andreea Popa
-I discovered a special interest in Software Testing and my main goal is to continuously improve my testing knowledge and skills to achieve high-quality results.  I am committed to continuous learning and improving my skills to excel as a software tester. Therefore, I would like to share my projects based on specific tools and methods learned in courses, personal studies and researches.
+I discovered a special interest in Software Testing and my main goal is to continuously improve my testing knowledge and skills to achieve high-quality results.  I am committed to continuous learning and exploring new opportunities to excel in the field of software testing. Therefore, I would like to share my projects based on specific tools and methods learned in courses, personal studies and researches.
 
 ## Skills and Experience
 • Python 
