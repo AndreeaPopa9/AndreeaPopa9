@@ -17,7 +17,7 @@ I discovered a special interest in Software Testing and my main goal is to conti
 • HTML/ CSS basics
 
 ## My Projects
-• [Testing site Georgia&Lulu](https://github.com/AndreeaPopa9/ExamProject_BDD)
+• [Testing site Georgia&Lulu](https://github.com/AndreeaPopa9/GeorgiaTest_BDD)
 • [Testing site Saucedemo](https://github.com/AndreeaPopa9/SaucedemoTest)
 • [Testing Jules app](https://github.com/AndreeaPopa9/JulesTest)
 
