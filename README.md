@@ -13,7 +13,7 @@ I discovered a special interest in Software Testing and my main goal is to conti
 • [Qa Automation Tester](https://www.linkedin.com/posts/andreeapopa9793_qa-automation-testing-certification-activity-7071803579019214849-kGY-?utm_source=share&utm_medium=member_desktop)
 
 ## Courses
-• IT Factory: Automation Testing and Manual Testing
+• IT Factory: Manual Testing and Automation Testing
 • HTML/ CSS basics
 
 ## My Projects
